@@ -4,11 +4,11 @@ languageCode = "en"
 # [en, zh, ...] determines which i18n file to use
 defaultContentLanguage = "en"
 # website title
-title = "monosor"
+title = "narze @ monosor.com"
 # theme
 theme = "LoveIt"
 # whether to use git commit log to generate lastmod record
-enableGitInfo = false
+enableGitInfo = true
 # whether to include chinese/japanese/korean
 hasCJKLanguage = false
 # default amount of posts in each pages
@@ -18,7 +18,7 @@ enableEmoji = true
 # whether to use robots.txt
 enableRobotsTXT = true
 # [UA-XXXXXXXX-X] google analytics code
-googleAnalytics = ""
+googleAnalytics = "UA-33428772-5"
 # copyright description used only for seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 # date format
@@ -56,7 +56,7 @@ dateFormatToUse = "2006-01-02"
 
 # Author Info
 [author]
-  name = "xxxx"
+  name = "narze"
   link = ""
 
 # Sitemap Info
@@ -89,11 +89,12 @@ dateFormatToUse = "2006-01-02"
     url = "categories"
     weight = 3
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "about"
-    weight = 4
+  # TODO:
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   url = "about"
+  #   weight = 4
 
   # [[menu.main]]
   #   identifier = "zh"
@@ -115,25 +116,25 @@ dateFormatToUse = "2006-01-02"
   ## [post, other] home mode
   home_mode = "post"
   ## special amount of posts in each home post page
-  home_paginate = 6
+  home_paginate = 5
   ## URL of avatar shown in home page
-  avatar = "images/avatar.png"
+  avatar = "images/avatar.jpg"
   ## subtitle shown in home page
-  subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+  subtitle = "Za Warudo!"
 
   # whether to show social share links in post page
   socialShare = true
 
   # Footer CopyRight Info
   ## Site creation time
-  since = 2019
+  since = 2015
   ## ICP info only in China (HTML format is allowed)
   icp = ""
   ## license info (HTML format is allowed)
   license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   # public git repo url to link lastmod git commit only then enableGitInfo is true
-  gitRepo = ""
+  gitRepo = "https://github.com/narze/narze.github.io"
 
   # mathematical formulas (KaTeX)
   [params.math]
@@ -192,7 +193,7 @@ dateFormatToUse = "2006-01-02"
     GitHub = "narze"
     Linkedin = "ManassarnManoonchai"
     Twitter = "narze"
-    #Instagram = "xxxx"
+    Instagram = "narze"
     Email = "manassarn@gmail.com"
     Facebook = "narze"
     Telegram = "narze"
@@ -205,7 +206,7 @@ dateFormatToUse = "2006-01-02"
     #Quora = "xxxx"
     Keybase = "narze"
     #Pinterest = "xxxx"
-    #Reddit = "xxxx"
+    Reddit = "narze"
     #Codepen = "xxxx"
     #FreeCodeCamp = "xxxx"
     #Bitbucket = "xxxx"
@@ -222,13 +223,13 @@ dateFormatToUse = "2006-01-02"
     #Paypal = "xxxx"
     #Fivehundredpx = "xxxx"
     #Mix = "xxxx"
-    #Goodreads = "xxxx"
+    Goodreads = "64367568-manassarn-manoonchai"
     #Lastfm = "xxxx"
     #Foursquare = "xxxx"
-    #Hackernews = "xxxx"
-    #Kickstarter = "xxxx"
+    Hackernews = "narze"
+    Kickstarter = "narze"
     #Patreon = "xxxx"
-    #Steam = "xxxx"
+    Steam = "narze"
     #Twitch = "xxxx"
     #Strava = "xxxx"
     #Skype = "xxxx"
@@ -247,7 +248,8 @@ dateFormatToUse = "2006-01-02"
     #Researchgate = "xxxx"
     #Mastodon = "xxxx"
     #Thingiverse = "xxxx"
-    #Devto = "narze"
+    Devto = "narze"
+    Custom = '<a href="https://mastodon.in.th/@narze" rel="me noopener noreffer" target="_blank"><i class="fab fa-mastodon fa-fw" title="Mastodon"></i></a>'
 
   # Social Share Links in post page
   [params.share]
@@ -265,7 +267,7 @@ dateFormatToUse = "2006-01-02"
 
   # Publisher Info just for SEO
   [params.publisher]
-    name = "xxxx"
+    name = "narze"
     [params.publisher.logo]
       url = "logo.png"
       width = 127
