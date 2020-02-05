@@ -4,7 +4,7 @@ author: narze
 
 date: 2016-11-29T17:49:40+00:00
 url: /learn/ปัตตะโชติ-3-libthai-elixir/
-featured_image: /wp-content/uploads/2016/11/Screenshot-2016-11-30-00.40.34-825x510.png
+featured_image: /images/cover/pattachote-3-libthai-elixir.png
 categories:
   - Learn
 tags:

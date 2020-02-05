@@ -4,7 +4,7 @@ author: narze
 
 date: 2016-11-14T12:28:30+00:00
 url: /geek/สวัสดีปัตตะโชติ-pattachote-1st-time/
-featured_image: /wp-content/uploads/2016/11/Picture-825x510.jpg
+featured_image: /images/cover/pattachote-1st-time.jpg
 categories:
   - Geek
   - Learn
