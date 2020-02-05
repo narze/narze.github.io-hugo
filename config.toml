@@ -4,7 +4,7 @@ languageCode = "en"
 # [en, zh, ...] determines which i18n file to use
 defaultContentLanguage = "en"
 # website title
-title = "LoveIt Theme"
+title = "monosor"
 # theme
 theme = "LoveIt"
 # whether to use git commit log to generate lastmod record
@@ -95,13 +95,13 @@ dateFormatToUse = "2006-01-02"
     url = "about"
     weight = 4
 
-  [[menu.main]]
-    identifier = "zh"
-    pre = '<i class="fas fa-language fa-fw"></i>'
-    name = ""
-    title = "简体中文"
-    url = "https://hugo-loveit-zh.netlify.com"
-    weight = 5
+  # [[menu.main]]
+  #   identifier = "zh"
+  #   pre = '<i class="fas fa-language fa-fw"></i>'
+  #   name = ""
+  #   title = "简体中文"
+  #   url = "https://hugo-loveit-zh.netlify.com"
+  #   weight = 5
 
 [params]
   # LoveIt theme version
