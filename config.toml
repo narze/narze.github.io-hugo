@@ -2,7 +2,7 @@ baseURL = "/"
 # website language
 languageCode = "en"
 # [en, zh, ...] determines which i18n file to use
-defaultContentLanguage = "en"
+defaultContentLanguage = "th"
 # website title
 title = "narze @ monosor.com"
 # theme
@@ -71,11 +71,11 @@ dateFormatToUse = "2006-01-02"
 
 # Languages
 [languages]
-  [languages.en]
-    languageName = "Eng"
-    weight = 1
   [languages.th]
     languageName = "ไทย"
+    weight = 1
+  [languages.en]
+    languageName = "Eng"
     weight = 2
 
 # Menu Info
