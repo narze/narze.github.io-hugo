@@ -4,7 +4,7 @@ author: narze
 
 date: 2016-01-18T18:18:15+00:00
 url: /review/learning-how-to-learn-online-course/
-featured_image: /images/cover/learning-how-to-learn.png
+featuredImage: /images/cover/learning-how-to-learn.png
 categories:
   - Learn
   - review

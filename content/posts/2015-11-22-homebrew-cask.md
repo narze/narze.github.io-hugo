@@ -4,7 +4,7 @@ author: narze
 
 date: 2015-11-22T19:13:26+00:00
 url: /geek/homebrew-cask/
-featured_image: /images/cover/homebrew-cask.png
+featuredImage: /images/cover/homebrew-cask.png
 categories:
   - Geek
 tags:

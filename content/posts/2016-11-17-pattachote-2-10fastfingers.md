@@ -4,7 +4,7 @@ author: narze
 
 date: 2016-11-16T18:32:26+00:00
 url: /learn/pattachote-2-10fastfingers/
-featured_image: /images/cover/pattachote-10fastfingers.jpg
+featuredImage: /images/cover/pattachote-10fastfingers.jpg
 categories:
   - Learn
 tags:
